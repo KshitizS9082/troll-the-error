@@ -1,0 +1,12 @@
+[
+    {"filename": "drake_hotline0.jpg", "tags": ["approval", "choice", "preference"]},
+    {"filename": "drake_hotline1.jpg", "tags": ["rejection", "disgust", "dislike"]},
+    {"filename": "success_kid.jpg", "tags": ["success", "win", "fix"]},
+    {"filename": "expanding_brain.jpg", "tags": ["insight", "escalation", "debugging"]},
+    {"filename": "distracted_bf.jgp", "tags":["distraction", "focus", "priorities"]},
+    {"filename": "two_buttons.jpg", "tags": ["decision", "conflict", "choice"]},
+    {"filename": "surprised_pikachu.jpg", "tags": ["shock", "unexpected", "reaction"]},
+    {"filename": "change_my_mind.jpg", "tags": ["debate", "opinion", "challenge"]},
+    {"filename":"this_is_fine.jpg", "tags": ["denial", "calm", "chaos"]}
+  ]
+  
